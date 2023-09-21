@@ -18,7 +18,8 @@
 </ul>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsGiraffe&langs_count=6&layout=compact&theme=dark)](https://github.com/MarsGiraffe/MarsGiraffe)﻿
-<p dir="auto><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsGiraffe&langs_count=6&layout=compact&theme=dark)](https://github.com/MarsGiraffe/MarsGiraffe"></p>
+<p dir="auto><iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsGiraffe&langs_count=6&layout=compact&theme=dark)](https://github.com/MarsGiraffe/MarsGiraffe" width="400" height="300"></iframe></p>
+<br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e6cd6a7df1a48c287b3d282a4866a491c4c92ef70a0549f10609ebb477693ac/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76616e616e61486f7065266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/5e6cd6a7df1a48c287b3d282a4866a491c4c92ef70a0549f10609ebb477693ac/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d76616e616e61486f7065266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsGiraffe&amp;layout=compact" style="max-width: 100%;"></a></p><br>
 
 
